@@ -1,0 +1,13 @@
+Description,Order,Line Item
+Gross Sales,1,Gross Sales
+Pre Invoice Deduction,2,Pre Invoice Deduction
+Net Invoice Sales,3,Net Invoice Sales
+Post Invoice Deduction,4,Total Post Invoice Deduction
+Net Sales,5,Net Sales
+Manufacturing Cost,6,- Manufacturing Cost
+Freight Cost,7,- Freight Cost
+Other Cost,8,- Other Cost
+Total COGS,9,Total COGS
+Gross Margin,10,Gross Margin
+Gross Margin %,11,Gross Margin %
+GM / Unit,12,GM / Unit

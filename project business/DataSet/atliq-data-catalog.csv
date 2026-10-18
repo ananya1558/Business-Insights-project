@@ -1,0 +1,16 @@
+DB Server,TableName, Description,Contact
+GDB041,FactForecastMonthly,"Contains historical forecast, current forecast at monthly level",Jarvis Singh
+GDB041,FactSalesMonthly,Contains sales up to date at Monthly level,Jarvis Singh
+GDB013,Regional Forecast,Forecast at different levels of granularity as per region,Loki Lal
+GDB014,Regional Sales,Sales at different levels of granularity as per region,Loki Lal
+GDB056,ManufacturingCost,"Currency in USD, data at fiscal year level",Jarvis Singh
+GDB056,PostInvoiceDeductions,"Currency in USD, data at monthly level",Jarvis Singh
+GDB017,Regional Cost & Deductions,Local Currency,Loki Lal
+GDB056,PreInvoiceDeductions,"Curency in USD, data at fiscal year level",Jarvis Singh
+GDB019,RegionalMarkUpCost,Local Currency,Loki Lal
+GDB020,RegionalOperatingExpenses,Local Currency,Loki Lal
+GDB041,"DimCustomer, DimProduct, DimMarket",,Loki Lal
+GDB022,Regional Freight,Local Currency,Loki Lal
+GDB056,FreightCost,Freight' and 'other costs' is % of Net Sales,Jarvis Singh
+GDB024,DailySales,Contains sales at daily level,Loki Lal
+GDB056,GrossPrice,"Currency in USD, data at fiscal year level",Jarvis Singh
