@@ -146,9 +146,11 @@ Business-Insights-Project/
 └── project business/
     ├── DataSet/
     │   ├── gdb041.sql.gz                 # MySQL database dump (core tables)
-    │   ├── marketshare-v2022.xlsx        # Competitor market share benchmark
-    │   ├── operating-expenses-table.xlsx # Operational expenditure rates
-    │   └── targets.xlsx                  # Budgeted financial targets
+    │   ├── marketshare-v2022.xlsx / .csv # Competitor market share benchmark
+    │   ├── operating-expenses-table.xlsx / .csv # Operational expenditure rates
+    │   ├── targets.xlsx / .csv           # Budgeted financial targets
+    │   ├── p-l-structure.csv             # Profit and loss line item order
+    │   └── atliq-data-catalog.csv        # Database server and table catalog
     ├── Stakeholders_Implementation/      # Stakeholder requirements & mockups
     │   ├── adding-dynamic-slicer-to-filter-visual.pptx
     │   ├── create-a-toggle-button-to-switch-between-visuals.pptx
